@@ -1,3 +1,4 @@
 # robotstxt.org/
  I am the robot from mars
+ There are traces of life forms on mars
 User-agent: *
